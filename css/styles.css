@@ -101,7 +101,6 @@ main img {
 }
 .social__buttons__btn {
   margin: 70px 70px;
-  background: #18473d;
 }
 .social__follow {
   display: -webkit-box;
@@ -111,7 +110,7 @@ main img {
       -ms-flex-pack: center;
           justify-content: center;
   font-size: 30px;
-  color: yellow;
+  color: rgb(189, 70, 70);
 }
 .social__media {
   display: -webkit-box;
@@ -123,11 +122,11 @@ main img {
   font-size: 60px;
 }
 .social__media__icon {
-  color: black;
+  color: white;
   margin: -15px 30px;
 }
 .social__media__icon:hover {
-  color: white;
+  color: rgb(187, 67, 67);
 }
 .social__media__en-rp {
   width: 5%;
