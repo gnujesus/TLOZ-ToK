@@ -275,6 +275,11 @@ main img {
   .social__privacy__separator {
     display: none;
   }
+  .social__copyright {
+    text-align: center;
+    font-size: 1rem;
+    color: rgb(145, 145, 145);
+  }
 }
 @media screen and (max-width: 1048px) {
   main {
